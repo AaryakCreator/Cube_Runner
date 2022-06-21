@@ -1,3 +1,5 @@
 # Cube_Runner
-This is the first build of Cube Runner game.
+There are some updates here... Go check it out!!
+
+
 Thank You for playing and participating!!  :)
